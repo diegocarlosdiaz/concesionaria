@@ -1,0 +1,22 @@
+[
+    {
+        "nombre" : "Luis",
+        "capacidadDePagoEnCuotas" : 1000,
+        "capacidadDePagoTotal" : 10000
+    },
+    {
+        "nombre" : "Cristian",
+        "capacidadDePagoEnCuotas" : 50000,
+        "capacidadDePagoTotal" : 700000
+    },
+    {
+        "nombre" : "Clementina",
+        "capacidadDePagoEnCuotas" : 10000,
+        "capacidadDePagoTotal" : 30000
+    },
+    {
+        "nombre" : "Susana",
+        "capacidadDePagoEnCuotas" : 1000000,
+        "capacidadDePagoTotal" : 30000000
+    }
+]
